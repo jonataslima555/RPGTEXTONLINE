@@ -1,0 +1,3154 @@
+{
+    "monsters": [
+        {
+            "name": "Urso Pardo 1",
+            "health": 20,
+            "damage": 5,
+            "level": 1,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 2",
+            "health": 22,
+            "damage": 6,
+            "level": 1,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 3",
+            "health": 24,
+            "damage": 7,
+            "level": 1,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 4",
+            "health": 20,
+            "damage": 5,
+            "level": 1,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 5",
+            "health": 22,
+            "damage": 6,
+            "level": 1,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 6",
+            "health": 24,
+            "damage": 7,
+            "level": 1,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 7",
+            "health": 20,
+            "damage": 5,
+            "level": 1,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 8",
+            "health": 22,
+            "damage": 6,
+            "level": 1,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 9",
+            "health": 24,
+            "damage": 7,
+            "level": 1,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 10",
+            "health": 20,
+            "damage": 5,
+            "level": 1,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 11",
+            "health": 22,
+            "damage": 6,
+            "level": 1,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 12",
+            "health": 24,
+            "damage": 7,
+            "level": 1,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 13",
+            "health": 20,
+            "damage": 5,
+            "level": 1,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 14",
+            "health": 22,
+            "damage": 6,
+            "level": 1,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 15",
+            "health": 24,
+            "damage": 7,
+            "level": 1,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 16",
+            "health": 20,
+            "damage": 5,
+            "level": 1,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 17",
+            "health": 22,
+            "damage": 6,
+            "level": 1,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 18",
+            "health": 24,
+            "damage": 7,
+            "level": 1,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 19",
+            "health": 20,
+            "damage": 5,
+            "level": 1,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 20",
+            "health": 22,
+            "damage": 6,
+            "level": 1,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 21",
+            "health": 24,
+            "damage": 7,
+            "level": 1,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 22",
+            "health": 20,
+            "damage": 5,
+            "level": 1,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 23",
+            "health": 22,
+            "damage": 6,
+            "level": 1,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 24",
+            "health": 24,
+            "damage": 7,
+            "level": 1,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 25",
+            "health": 20,
+            "damage": 5,
+            "level": 1,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 26",
+            "health": 22,
+            "damage": 6,
+            "level": 1,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 27",
+            "health": 24,
+            "damage": 7,
+            "level": 1,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 28",
+            "health": 20,
+            "damage": 5,
+            "level": 1,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 29",
+            "health": 22,
+            "damage": 6,
+            "level": 1,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 30",
+            "health": 24,
+            "damage": 7,
+            "level": 1,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 31",
+            "health": 30,
+            "damage": 7,
+            "level": 2,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 32",
+            "health": 32,
+            "damage": 8,
+            "level": 2,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 33",
+            "health": 34,
+            "damage": 9,
+            "level": 2,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 34",
+            "health": 30,
+            "damage": 7,
+            "level": 2,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 35",
+            "health": 32,
+            "damage": 8,
+            "level": 2,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 36",
+            "health": 34,
+            "damage": 9,
+            "level": 2,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 37",
+            "health": 30,
+            "damage": 7,
+            "level": 2,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 38",
+            "health": 32,
+            "damage": 8,
+            "level": 2,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 39",
+            "health": 34,
+            "damage": 9,
+            "level": 2,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 40",
+            "health": 30,
+            "damage": 7,
+            "level": 2,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 41",
+            "health": 32,
+            "damage": 8,
+            "level": 2,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 42",
+            "health": 34,
+            "damage": 9,
+            "level": 2,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 43",
+            "health": 30,
+            "damage": 7,
+            "level": 2,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 44",
+            "health": 32,
+            "damage": 8,
+            "level": 2,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 45",
+            "health": 34,
+            "damage": 9,
+            "level": 2,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 46",
+            "health": 30,
+            "damage": 7,
+            "level": 2,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 47",
+            "health": 32,
+            "damage": 8,
+            "level": 2,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 48",
+            "health": 34,
+            "damage": 9,
+            "level": 2,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 49",
+            "health": 30,
+            "damage": 7,
+            "level": 2,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 50",
+            "health": 32,
+            "damage": 8,
+            "level": 2,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 51",
+            "health": 34,
+            "damage": 9,
+            "level": 2,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 52",
+            "health": 30,
+            "damage": 7,
+            "level": 2,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 53",
+            "health": 32,
+            "damage": 8,
+            "level": 2,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 54",
+            "health": 34,
+            "damage": 9,
+            "level": 2,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 55",
+            "health": 30,
+            "damage": 7,
+            "level": 2,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 56",
+            "health": 32,
+            "damage": 8,
+            "level": 2,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 57",
+            "health": 34,
+            "damage": 9,
+            "level": 2,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 58",
+            "health": 30,
+            "damage": 7,
+            "level": 2,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 59",
+            "health": 32,
+            "damage": 8,
+            "level": 2,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 60",
+            "health": 34,
+            "damage": 9,
+            "level": 2,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 61",
+            "health": 40,
+            "damage": 9,
+            "level": 3,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 62",
+            "health": 42,
+            "damage": 10,
+            "level": 3,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 63",
+            "health": 44,
+            "damage": 11,
+            "level": 3,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 64",
+            "health": 40,
+            "damage": 9,
+            "level": 3,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 65",
+            "health": 42,
+            "damage": 10,
+            "level": 3,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 66",
+            "health": 44,
+            "damage": 11,
+            "level": 3,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 67",
+            "health": 40,
+            "damage": 9,
+            "level": 3,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 68",
+            "health": 42,
+            "damage": 10,
+            "level": 3,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 69",
+            "health": 44,
+            "damage": 11,
+            "level": 3,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 70",
+            "health": 40,
+            "damage": 9,
+            "level": 3,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 71",
+            "health": 42,
+            "damage": 10,
+            "level": 3,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 72",
+            "health": 44,
+            "damage": 11,
+            "level": 3,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 73",
+            "health": 40,
+            "damage": 9,
+            "level": 3,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 74",
+            "health": 42,
+            "damage": 10,
+            "level": 3,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 75",
+            "health": 44,
+            "damage": 11,
+            "level": 3,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 76",
+            "health": 40,
+            "damage": 9,
+            "level": 3,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 77",
+            "health": 42,
+            "damage": 10,
+            "level": 3,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 78",
+            "health": 44,
+            "damage": 11,
+            "level": 3,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 79",
+            "health": 40,
+            "damage": 9,
+            "level": 3,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 80",
+            "health": 42,
+            "damage": 10,
+            "level": 3,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 81",
+            "health": 44,
+            "damage": 11,
+            "level": 3,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 82",
+            "health": 40,
+            "damage": 9,
+            "level": 3,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 83",
+            "health": 42,
+            "damage": 10,
+            "level": 3,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 84",
+            "health": 44,
+            "damage": 11,
+            "level": 3,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 85",
+            "health": 40,
+            "damage": 9,
+            "level": 3,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 86",
+            "health": 42,
+            "damage": 10,
+            "level": 3,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 87",
+            "health": 44,
+            "damage": 11,
+            "level": 3,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 88",
+            "health": 40,
+            "damage": 9,
+            "level": 3,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 89",
+            "health": 42,
+            "damage": 10,
+            "level": 3,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 90",
+            "health": 44,
+            "damage": 11,
+            "level": 3,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 91",
+            "health": 50,
+            "damage": 11,
+            "level": 4,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 92",
+            "health": 52,
+            "damage": 12,
+            "level": 4,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 93",
+            "health": 54,
+            "damage": 13,
+            "level": 4,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 94",
+            "health": 50,
+            "damage": 11,
+            "level": 4,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 95",
+            "health": 52,
+            "damage": 12,
+            "level": 4,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 96",
+            "health": 54,
+            "damage": 13,
+            "level": 4,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 97",
+            "health": 50,
+            "damage": 11,
+            "level": 4,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 98",
+            "health": 52,
+            "damage": 12,
+            "level": 4,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 99",
+            "health": 54,
+            "damage": 13,
+            "level": 4,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 100",
+            "health": 50,
+            "damage": 11,
+            "level": 4,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 101",
+            "health": 52,
+            "damage": 12,
+            "level": 4,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 102",
+            "health": 54,
+            "damage": 13,
+            "level": 4,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 103",
+            "health": 50,
+            "damage": 11,
+            "level": 4,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 104",
+            "health": 52,
+            "damage": 12,
+            "level": 4,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 105",
+            "health": 54,
+            "damage": 13,
+            "level": 4,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 106",
+            "health": 50,
+            "damage": 11,
+            "level": 4,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 107",
+            "health": 52,
+            "damage": 12,
+            "level": 4,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 108",
+            "health": 54,
+            "damage": 13,
+            "level": 4,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 109",
+            "health": 50,
+            "damage": 11,
+            "level": 4,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 110",
+            "health": 52,
+            "damage": 12,
+            "level": 4,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 111",
+            "health": 54,
+            "damage": 13,
+            "level": 4,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 112",
+            "health": 50,
+            "damage": 11,
+            "level": 4,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 113",
+            "health": 52,
+            "damage": 12,
+            "level": 4,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 114",
+            "health": 54,
+            "damage": 13,
+            "level": 4,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 115",
+            "health": 50,
+            "damage": 11,
+            "level": 4,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 116",
+            "health": 52,
+            "damage": 12,
+            "level": 4,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 117",
+            "health": 54,
+            "damage": 13,
+            "level": 4,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 118",
+            "health": 50,
+            "damage": 11,
+            "level": 4,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 119",
+            "health": 52,
+            "damage": 12,
+            "level": 4,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 120",
+            "health": 54,
+            "damage": 13,
+            "level": 4,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 121",
+            "health": 60,
+            "damage": 13,
+            "level": 5,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 122",
+            "health": 62,
+            "damage": 14,
+            "level": 5,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 123",
+            "health": 64,
+            "damage": 15,
+            "level": 5,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 124",
+            "health": 60,
+            "damage": 13,
+            "level": 5,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 125",
+            "health": 62,
+            "damage": 14,
+            "level": 5,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 126",
+            "health": 64,
+            "damage": 15,
+            "level": 5,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 127",
+            "health": 60,
+            "damage": 13,
+            "level": 5,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 128",
+            "health": 62,
+            "damage": 14,
+            "level": 5,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 129",
+            "health": 64,
+            "damage": 15,
+            "level": 5,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 130",
+            "health": 60,
+            "damage": 13,
+            "level": 5,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 131",
+            "health": 62,
+            "damage": 14,
+            "level": 5,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 132",
+            "health": 64,
+            "damage": 15,
+            "level": 5,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 133",
+            "health": 60,
+            "damage": 13,
+            "level": 5,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 134",
+            "health": 62,
+            "damage": 14,
+            "level": 5,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 135",
+            "health": 64,
+            "damage": 15,
+            "level": 5,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 136",
+            "health": 60,
+            "damage": 13,
+            "level": 5,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 137",
+            "health": 62,
+            "damage": 14,
+            "level": 5,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 138",
+            "health": 64,
+            "damage": 15,
+            "level": 5,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 139",
+            "health": 60,
+            "damage": 13,
+            "level": 5,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 140",
+            "health": 62,
+            "damage": 14,
+            "level": 5,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 141",
+            "health": 64,
+            "damage": 15,
+            "level": 5,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 142",
+            "health": 60,
+            "damage": 13,
+            "level": 5,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 143",
+            "health": 62,
+            "damage": 14,
+            "level": 5,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 144",
+            "health": 64,
+            "damage": 15,
+            "level": 5,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 145",
+            "health": 60,
+            "damage": 13,
+            "level": 5,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 146",
+            "health": 62,
+            "damage": 14,
+            "level": 5,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 147",
+            "health": 64,
+            "damage": 15,
+            "level": 5,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 148",
+            "health": 60,
+            "damage": 13,
+            "level": 5,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 149",
+            "health": 62,
+            "damage": 14,
+            "level": 5,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 150",
+            "health": 64,
+            "damage": 15,
+            "level": 5,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 151",
+            "health": 70,
+            "damage": 15,
+            "level": 6,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 152",
+            "health": 72,
+            "damage": 16,
+            "level": 6,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 153",
+            "health": 74,
+            "damage": 17,
+            "level": 6,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 154",
+            "health": 70,
+            "damage": 15,
+            "level": 6,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 155",
+            "health": 72,
+            "damage": 16,
+            "level": 6,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 156",
+            "health": 74,
+            "damage": 17,
+            "level": 6,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 157",
+            "health": 70,
+            "damage": 15,
+            "level": 6,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 158",
+            "health": 72,
+            "damage": 16,
+            "level": 6,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 159",
+            "health": 74,
+            "damage": 17,
+            "level": 6,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 160",
+            "health": 70,
+            "damage": 15,
+            "level": 6,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 161",
+            "health": 72,
+            "damage": 16,
+            "level": 6,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 162",
+            "health": 74,
+            "damage": 17,
+            "level": 6,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 163",
+            "health": 70,
+            "damage": 15,
+            "level": 6,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 164",
+            "health": 72,
+            "damage": 16,
+            "level": 6,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 165",
+            "health": 74,
+            "damage": 17,
+            "level": 6,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 166",
+            "health": 70,
+            "damage": 15,
+            "level": 6,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 167",
+            "health": 72,
+            "damage": 16,
+            "level": 6,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 168",
+            "health": 74,
+            "damage": 17,
+            "level": 6,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 169",
+            "health": 70,
+            "damage": 15,
+            "level": 6,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 170",
+            "health": 72,
+            "damage": 16,
+            "level": 6,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 171",
+            "health": 74,
+            "damage": 17,
+            "level": 6,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 172",
+            "health": 70,
+            "damage": 15,
+            "level": 6,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 173",
+            "health": 72,
+            "damage": 16,
+            "level": 6,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 174",
+            "health": 74,
+            "damage": 17,
+            "level": 6,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 175",
+            "health": 70,
+            "damage": 15,
+            "level": 6,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 176",
+            "health": 72,
+            "damage": 16,
+            "level": 6,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 177",
+            "health": 74,
+            "damage": 17,
+            "level": 6,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 178",
+            "health": 70,
+            "damage": 15,
+            "level": 6,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 179",
+            "health": 72,
+            "damage": 16,
+            "level": 6,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 180",
+            "health": 74,
+            "damage": 17,
+            "level": 6,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 181",
+            "health": 80,
+            "damage": 17,
+            "level": 7,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 182",
+            "health": 82,
+            "damage": 18,
+            "level": 7,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 183",
+            "health": 84,
+            "damage": 19,
+            "level": 7,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 184",
+            "health": 80,
+            "damage": 17,
+            "level": 7,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 185",
+            "health": 82,
+            "damage": 18,
+            "level": 7,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 186",
+            "health": 84,
+            "damage": 19,
+            "level": 7,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 187",
+            "health": 80,
+            "damage": 17,
+            "level": 7,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 188",
+            "health": 82,
+            "damage": 18,
+            "level": 7,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 189",
+            "health": 84,
+            "damage": 19,
+            "level": 7,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 190",
+            "health": 80,
+            "damage": 17,
+            "level": 7,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 191",
+            "health": 82,
+            "damage": 18,
+            "level": 7,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 192",
+            "health": 84,
+            "damage": 19,
+            "level": 7,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 193",
+            "health": 80,
+            "damage": 17,
+            "level": 7,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 194",
+            "health": 82,
+            "damage": 18,
+            "level": 7,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 195",
+            "health": 84,
+            "damage": 19,
+            "level": 7,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 196",
+            "health": 80,
+            "damage": 17,
+            "level": 7,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 197",
+            "health": 82,
+            "damage": 18,
+            "level": 7,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 198",
+            "health": 84,
+            "damage": 19,
+            "level": 7,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 199",
+            "health": 80,
+            "damage": 17,
+            "level": 7,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 200",
+            "health": 82,
+            "damage": 18,
+            "level": 7,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 201",
+            "health": 84,
+            "damage": 19,
+            "level": 7,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 202",
+            "health": 80,
+            "damage": 17,
+            "level": 7,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 203",
+            "health": 82,
+            "damage": 18,
+            "level": 7,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 204",
+            "health": 84,
+            "damage": 19,
+            "level": 7,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 205",
+            "health": 80,
+            "damage": 17,
+            "level": 7,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 206",
+            "health": 82,
+            "damage": 18,
+            "level": 7,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 207",
+            "health": 84,
+            "damage": 19,
+            "level": 7,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 208",
+            "health": 80,
+            "damage": 17,
+            "level": 7,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 209",
+            "health": 82,
+            "damage": 18,
+            "level": 7,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 210",
+            "health": 84,
+            "damage": 19,
+            "level": 7,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 211",
+            "health": 90,
+            "damage": 19,
+            "level": 8,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 212",
+            "health": 92,
+            "damage": 20,
+            "level": 8,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 213",
+            "health": 94,
+            "damage": 21,
+            "level": 8,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 214",
+            "health": 90,
+            "damage": 19,
+            "level": 8,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 215",
+            "health": 92,
+            "damage": 20,
+            "level": 8,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 216",
+            "health": 94,
+            "damage": 21,
+            "level": 8,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 217",
+            "health": 90,
+            "damage": 19,
+            "level": 8,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 218",
+            "health": 92,
+            "damage": 20,
+            "level": 8,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 219",
+            "health": 94,
+            "damage": 21,
+            "level": 8,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 220",
+            "health": 90,
+            "damage": 19,
+            "level": 8,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 221",
+            "health": 92,
+            "damage": 20,
+            "level": 8,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 222",
+            "health": 94,
+            "damage": 21,
+            "level": 8,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 223",
+            "health": 90,
+            "damage": 19,
+            "level": 8,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 224",
+            "health": 92,
+            "damage": 20,
+            "level": 8,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 225",
+            "health": 94,
+            "damage": 21,
+            "level": 8,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 226",
+            "health": 90,
+            "damage": 19,
+            "level": 8,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 227",
+            "health": 92,
+            "damage": 20,
+            "level": 8,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 228",
+            "health": 94,
+            "damage": 21,
+            "level": 8,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 229",
+            "health": 90,
+            "damage": 19,
+            "level": 8,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 230",
+            "health": 92,
+            "damage": 20,
+            "level": 8,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 231",
+            "health": 94,
+            "damage": 21,
+            "level": 8,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 232",
+            "health": 90,
+            "damage": 19,
+            "level": 8,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 233",
+            "health": 92,
+            "damage": 20,
+            "level": 8,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 234",
+            "health": 94,
+            "damage": 21,
+            "level": 8,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 235",
+            "health": 90,
+            "damage": 19,
+            "level": 8,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 236",
+            "health": 92,
+            "damage": 20,
+            "level": 8,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 237",
+            "health": 94,
+            "damage": 21,
+            "level": 8,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 238",
+            "health": 90,
+            "damage": 19,
+            "level": 8,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 239",
+            "health": 92,
+            "damage": 20,
+            "level": 8,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 240",
+            "health": 94,
+            "damage": 21,
+            "level": 8,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 241",
+            "health": 100,
+            "damage": 21,
+            "level": 9,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 242",
+            "health": 102,
+            "damage": 22,
+            "level": 9,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 243",
+            "health": 104,
+            "damage": 23,
+            "level": 9,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 244",
+            "health": 100,
+            "damage": 21,
+            "level": 9,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 245",
+            "health": 102,
+            "damage": 22,
+            "level": 9,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 246",
+            "health": 104,
+            "damage": 23,
+            "level": 9,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 247",
+            "health": 100,
+            "damage": 21,
+            "level": 9,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 248",
+            "health": 102,
+            "damage": 22,
+            "level": 9,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 249",
+            "health": 104,
+            "damage": 23,
+            "level": 9,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 250",
+            "health": 100,
+            "damage": 21,
+            "level": 9,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 251",
+            "health": 102,
+            "damage": 22,
+            "level": 9,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 252",
+            "health": 104,
+            "damage": 23,
+            "level": 9,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 253",
+            "health": 100,
+            "damage": 21,
+            "level": 9,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 254",
+            "health": 102,
+            "damage": 22,
+            "level": 9,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 255",
+            "health": 104,
+            "damage": 23,
+            "level": 9,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 256",
+            "health": 100,
+            "damage": 21,
+            "level": 9,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 257",
+            "health": 102,
+            "damage": 22,
+            "level": 9,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 258",
+            "health": 104,
+            "damage": 23,
+            "level": 9,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 259",
+            "health": 100,
+            "damage": 21,
+            "level": 9,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 260",
+            "health": 102,
+            "damage": 22,
+            "level": 9,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 261",
+            "health": 104,
+            "damage": 23,
+            "level": 9,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 262",
+            "health": 100,
+            "damage": 21,
+            "level": 9,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 263",
+            "health": 102,
+            "damage": 22,
+            "level": 9,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 264",
+            "health": 104,
+            "damage": 23,
+            "level": 9,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 265",
+            "health": 100,
+            "damage": 21,
+            "level": 9,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 266",
+            "health": 102,
+            "damage": 22,
+            "level": 9,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 267",
+            "health": 104,
+            "damage": 23,
+            "level": 9,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 268",
+            "health": 100,
+            "damage": 21,
+            "level": 9,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 269",
+            "health": 102,
+            "damage": 22,
+            "level": 9,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 270",
+            "health": 104,
+            "damage": 23,
+            "level": 9,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 271",
+            "health": 110,
+            "damage": 23,
+            "level": 10,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 272",
+            "health": 112,
+            "damage": 24,
+            "level": 10,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 273",
+            "health": 114,
+            "damage": 25,
+            "level": 10,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 274",
+            "health": 110,
+            "damage": 23,
+            "level": 10,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 275",
+            "health": 112,
+            "damage": 24,
+            "level": 10,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 276",
+            "health": 114,
+            "damage": 25,
+            "level": 10,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 277",
+            "health": 110,
+            "damage": 23,
+            "level": 10,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 278",
+            "health": 112,
+            "damage": 24,
+            "level": 10,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 279",
+            "health": 114,
+            "damage": 25,
+            "level": 10,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 280",
+            "health": 110,
+            "damage": 23,
+            "level": 10,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 281",
+            "health": 112,
+            "damage": 24,
+            "level": 10,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 282",
+            "health": 114,
+            "damage": 25,
+            "level": 10,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 283",
+            "health": 110,
+            "damage": 23,
+            "level": 10,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 284",
+            "health": 112,
+            "damage": 24,
+            "level": 10,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 285",
+            "health": 114,
+            "damage": 25,
+            "level": 10,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 286",
+            "health": 110,
+            "damage": 23,
+            "level": 10,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 287",
+            "health": 112,
+            "damage": 24,
+            "level": 10,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 288",
+            "health": 114,
+            "damage": 25,
+            "level": 10,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 289",
+            "health": 110,
+            "damage": 23,
+            "level": 10,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 290",
+            "health": 112,
+            "damage": 24,
+            "level": 10,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 291",
+            "health": 114,
+            "damage": 25,
+            "level": 10,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 292",
+            "health": 110,
+            "damage": 23,
+            "level": 10,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 293",
+            "health": 112,
+            "damage": 24,
+            "level": 10,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 294",
+            "health": 114,
+            "damage": 25,
+            "level": 10,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 295",
+            "health": 110,
+            "damage": 23,
+            "level": 10,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 296",
+            "health": 112,
+            "damage": 24,
+            "level": 10,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 297",
+            "health": 114,
+            "damage": 25,
+            "level": 10,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 298",
+            "health": 110,
+            "damage": 23,
+            "level": 10,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 299",
+            "health": 112,
+            "damage": 24,
+            "level": 10,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 300",
+            "health": 114,
+            "damage": 25,
+            "level": 10,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 301",
+            "health": 120,
+            "damage": 25,
+            "level": 11,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 302",
+            "health": 122,
+            "damage": 26,
+            "level": 11,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 303",
+            "health": 124,
+            "damage": 27,
+            "level": 11,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 304",
+            "health": 120,
+            "damage": 25,
+            "level": 11,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 305",
+            "health": 122,
+            "damage": 26,
+            "level": 11,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 306",
+            "health": 124,
+            "damage": 27,
+            "level": 11,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 307",
+            "health": 120,
+            "damage": 25,
+            "level": 11,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 308",
+            "health": 122,
+            "damage": 26,
+            "level": 11,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 309",
+            "health": 124,
+            "damage": 27,
+            "level": 11,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 310",
+            "health": 120,
+            "damage": 25,
+            "level": 11,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 311",
+            "health": 122,
+            "damage": 26,
+            "level": 11,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 312",
+            "health": 124,
+            "damage": 27,
+            "level": 11,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 313",
+            "health": 120,
+            "damage": 25,
+            "level": 11,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 314",
+            "health": 122,
+            "damage": 26,
+            "level": 11,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 315",
+            "health": 124,
+            "damage": 27,
+            "level": 11,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 316",
+            "health": 120,
+            "damage": 25,
+            "level": 11,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 317",
+            "health": 122,
+            "damage": 26,
+            "level": 11,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 318",
+            "health": 124,
+            "damage": 27,
+            "level": 11,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 319",
+            "health": 120,
+            "damage": 25,
+            "level": 11,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 320",
+            "health": 122,
+            "damage": 26,
+            "level": 11,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 321",
+            "health": 124,
+            "damage": 27,
+            "level": 11,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 322",
+            "health": 120,
+            "damage": 25,
+            "level": 11,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 323",
+            "health": 122,
+            "damage": 26,
+            "level": 11,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 324",
+            "health": 124,
+            "damage": 27,
+            "level": 11,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 325",
+            "health": 120,
+            "damage": 25,
+            "level": 11,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 326",
+            "health": 122,
+            "damage": 26,
+            "level": 11,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 327",
+            "health": 124,
+            "damage": 27,
+            "level": 11,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 328",
+            "health": 120,
+            "damage": 25,
+            "level": 11,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 329",
+            "health": 122,
+            "damage": 26,
+            "level": 11,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 330",
+            "health": 124,
+            "damage": 27,
+            "level": 11,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 331",
+            "health": 130,
+            "damage": 27,
+            "level": 12,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 332",
+            "health": 132,
+            "damage": 28,
+            "level": 12,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 333",
+            "health": 134,
+            "damage": 29,
+            "level": 12,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 334",
+            "health": 130,
+            "damage": 27,
+            "level": 12,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 335",
+            "health": 132,
+            "damage": 28,
+            "level": 12,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 336",
+            "health": 134,
+            "damage": 29,
+            "level": 12,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 337",
+            "health": 130,
+            "damage": 27,
+            "level": 12,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 338",
+            "health": 132,
+            "damage": 28,
+            "level": 12,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 339",
+            "health": 134,
+            "damage": 29,
+            "level": 12,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 340",
+            "health": 130,
+            "damage": 27,
+            "level": 12,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 341",
+            "health": 132,
+            "damage": 28,
+            "level": 12,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 342",
+            "health": 134,
+            "damage": 29,
+            "level": 12,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 343",
+            "health": 130,
+            "damage": 27,
+            "level": 12,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 344",
+            "health": 132,
+            "damage": 28,
+            "level": 12,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 345",
+            "health": 134,
+            "damage": 29,
+            "level": 12,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 346",
+            "health": 130,
+            "damage": 27,
+            "level": 12,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 347",
+            "health": 132,
+            "damage": 28,
+            "level": 12,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 348",
+            "health": 134,
+            "damage": 29,
+            "level": 12,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 349",
+            "health": 130,
+            "damage": 27,
+            "level": 12,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 350",
+            "health": 132,
+            "damage": 28,
+            "level": 12,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 351",
+            "health": 134,
+            "damage": 29,
+            "level": 12,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 352",
+            "health": 130,
+            "damage": 27,
+            "level": 12,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 353",
+            "health": 132,
+            "damage": 28,
+            "level": 12,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 354",
+            "health": 134,
+            "damage": 29,
+            "level": 12,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 355",
+            "health": 130,
+            "damage": 27,
+            "level": 12,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 356",
+            "health": 132,
+            "damage": 28,
+            "level": 12,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 357",
+            "health": 134,
+            "damage": 29,
+            "level": 12,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 358",
+            "health": 130,
+            "damage": 27,
+            "level": 12,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 359",
+            "health": 132,
+            "damage": 28,
+            "level": 12,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 360",
+            "health": 134,
+            "damage": 29,
+            "level": 12,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 361",
+            "health": 140,
+            "damage": 29,
+            "level": 13,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 362",
+            "health": 142,
+            "damage": 30,
+            "level": 13,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 363",
+            "health": 144,
+            "damage": 31,
+            "level": 13,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 364",
+            "health": 140,
+            "damage": 29,
+            "level": 13,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 365",
+            "health": 142,
+            "damage": 30,
+            "level": 13,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 366",
+            "health": 144,
+            "damage": 31,
+            "level": 13,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 367",
+            "health": 140,
+            "damage": 29,
+            "level": 13,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 368",
+            "health": 142,
+            "damage": 30,
+            "level": 13,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 369",
+            "health": 144,
+            "damage": 31,
+            "level": 13,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 370",
+            "health": 140,
+            "damage": 29,
+            "level": 13,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 371",
+            "health": 142,
+            "damage": 30,
+            "level": 13,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 372",
+            "health": 144,
+            "damage": 31,
+            "level": 13,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 373",
+            "health": 140,
+            "damage": 29,
+            "level": 13,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 374",
+            "health": 142,
+            "damage": 30,
+            "level": 13,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 375",
+            "health": 144,
+            "damage": 31,
+            "level": 13,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 376",
+            "health": 140,
+            "damage": 29,
+            "level": 13,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 377",
+            "health": 142,
+            "damage": 30,
+            "level": 13,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 378",
+            "health": 144,
+            "damage": 31,
+            "level": 13,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 379",
+            "health": 140,
+            "damage": 29,
+            "level": 13,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 380",
+            "health": 142,
+            "damage": 30,
+            "level": 13,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 381",
+            "health": 144,
+            "damage": 31,
+            "level": 13,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 382",
+            "health": 140,
+            "damage": 29,
+            "level": 13,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 383",
+            "health": 142,
+            "damage": 30,
+            "level": 13,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 384",
+            "health": 144,
+            "damage": 31,
+            "level": 13,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 385",
+            "health": 140,
+            "damage": 29,
+            "level": 13,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 386",
+            "health": 142,
+            "damage": 30,
+            "level": 13,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 387",
+            "health": 144,
+            "damage": 31,
+            "level": 13,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 388",
+            "health": 140,
+            "damage": 29,
+            "level": 13,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 389",
+            "health": 142,
+            "damage": 30,
+            "level": 13,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 390",
+            "health": 144,
+            "damage": 31,
+            "level": 13,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 391",
+            "health": 150,
+            "damage": 31,
+            "level": 14,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 392",
+            "health": 152,
+            "damage": 32,
+            "level": 14,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 393",
+            "health": 154,
+            "damage": 33,
+            "level": 14,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 394",
+            "health": 150,
+            "damage": 31,
+            "level": 14,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 395",
+            "health": 152,
+            "damage": 32,
+            "level": 14,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 396",
+            "health": 154,
+            "damage": 33,
+            "level": 14,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 397",
+            "health": 150,
+            "damage": 31,
+            "level": 14,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 398",
+            "health": 152,
+            "damage": 32,
+            "level": 14,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 399",
+            "health": 154,
+            "damage": 33,
+            "level": 14,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 400",
+            "health": 150,
+            "damage": 31,
+            "level": 14,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 401",
+            "health": 152,
+            "damage": 32,
+            "level": 14,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 402",
+            "health": 154,
+            "damage": 33,
+            "level": 14,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 403",
+            "health": 150,
+            "damage": 31,
+            "level": 14,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 404",
+            "health": 152,
+            "damage": 32,
+            "level": 14,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 405",
+            "health": 154,
+            "damage": 33,
+            "level": 14,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 406",
+            "health": 150,
+            "damage": 31,
+            "level": 14,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 407",
+            "health": 152,
+            "damage": 32,
+            "level": 14,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 408",
+            "health": 154,
+            "damage": 33,
+            "level": 14,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 409",
+            "health": 150,
+            "damage": 31,
+            "level": 14,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 410",
+            "health": 152,
+            "damage": 32,
+            "level": 14,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 411",
+            "health": 154,
+            "damage": 33,
+            "level": 14,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 412",
+            "health": 150,
+            "damage": 31,
+            "level": 14,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 413",
+            "health": 152,
+            "damage": 32,
+            "level": 14,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 414",
+            "health": 154,
+            "damage": 33,
+            "level": 14,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 415",
+            "health": 150,
+            "damage": 31,
+            "level": 14,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 416",
+            "health": 152,
+            "damage": 32,
+            "level": 14,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 417",
+            "health": 154,
+            "damage": 33,
+            "level": 14,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 418",
+            "health": 150,
+            "damage": 31,
+            "level": 14,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 419",
+            "health": 152,
+            "damage": 32,
+            "level": 14,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 420",
+            "health": 154,
+            "damage": 33,
+            "level": 14,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 421",
+            "health": 160,
+            "damage": 33,
+            "level": 15,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 422",
+            "health": 162,
+            "damage": 34,
+            "level": 15,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 423",
+            "health": 164,
+            "damage": 35,
+            "level": 15,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 424",
+            "health": 160,
+            "damage": 33,
+            "level": 15,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 425",
+            "health": 162,
+            "damage": 34,
+            "level": 15,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 426",
+            "health": 164,
+            "damage": 35,
+            "level": 15,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 427",
+            "health": 160,
+            "damage": 33,
+            "level": 15,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 428",
+            "health": 162,
+            "damage": 34,
+            "level": 15,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 429",
+            "health": 164,
+            "damage": 35,
+            "level": 15,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 430",
+            "health": 160,
+            "damage": 33,
+            "level": 15,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 431",
+            "health": 162,
+            "damage": 34,
+            "level": 15,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 432",
+            "health": 164,
+            "damage": 35,
+            "level": 15,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 433",
+            "health": 160,
+            "damage": 33,
+            "level": 15,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 434",
+            "health": 162,
+            "damage": 34,
+            "level": 15,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 435",
+            "health": 164,
+            "damage": 35,
+            "level": 15,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 436",
+            "health": 160,
+            "damage": 33,
+            "level": 15,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 437",
+            "health": 162,
+            "damage": 34,
+            "level": 15,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 438",
+            "health": 164,
+            "damage": 35,
+            "level": 15,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 439",
+            "health": 160,
+            "damage": 33,
+            "level": 15,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 440",
+            "health": 162,
+            "damage": 34,
+            "level": 15,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 441",
+            "health": 164,
+            "damage": 35,
+            "level": 15,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 442",
+            "health": 160,
+            "damage": 33,
+            "level": 15,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 443",
+            "health": 162,
+            "damage": 34,
+            "level": 15,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 444",
+            "health": 164,
+            "damage": 35,
+            "level": 15,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 445",
+            "health": 160,
+            "damage": 33,
+            "level": 15,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 446",
+            "health": 162,
+            "damage": 34,
+            "level": 15,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 447",
+            "health": 164,
+            "damage": 35,
+            "level": 15,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        },
+        {
+            "name": "Urso Pardo 448",
+            "health": 160,
+            "damage": 33,
+            "level": 15,
+            "descr": "Um urso grande e feroz com garras afiadas."
+        },
+        {
+            "name": "Troll das Cavernas 449",
+            "health": 162,
+            "damage": 34,
+            "level": 15,
+            "descr": "Uma criatura enorme e forte que vive nas profundezas das cavernas."
+        },
+        {
+            "name": "Esqueleto 450",
+            "health": 164,
+            "damage": 35,
+            "level": 15,
+            "descr": "Restos animados de um guerreiro ca\u00eddo, movidos por magia negra."
+        }
+    ]
+}
