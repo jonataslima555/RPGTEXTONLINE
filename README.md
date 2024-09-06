@@ -10,7 +10,7 @@ Este é um jogo de RPG em desenvolvimento que permite criar usuários e personag
 - **Sistema de níveis**: O personagem pode subir de nível ao ganhar experiência (XP).
 - **Loja**: O jogador pode comprar melhorias para seu personagem com o ouro obtido nas dungeons.
 
-### Em desenvolvimento:
+### Em desenvolvimento
 
 - Modo história para progressão narrativa.
 - Sistema de PvP (Player vs. Player).
@@ -25,83 +25,93 @@ Este é um jogo de RPG em desenvolvimento que permite criar usuários e personag
 - Python 3.10+
 - Ambiente virtual recomendado
 
-### Passos para instalação:
+### Passos para instalação
 
 1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/rpg-dungeon-game.git
 
-Acesse o diretório do projeto:
+    ```bash
+    git clone https://github.com/seu-usuario/rpg-dungeon-game.git
+    ```
 
-bash
+2. Acesse o diretório do projeto:
 
-cd rpg-dungeon-game
+    ```bash
+    cd rpg-dungeon-game
+    ```
 
-Crie um ambiente virtual (opcional, mas recomendado):
+3. Crie um ambiente virtual (Recomendado):
 
-bash
+    ```bash
+    python -m venv venv
+    ```
 
-python -m venv venv
+4. Ative o ambiente virtual:
 
-Ative o ambiente virtual:
+    - No Windows:
 
-    No Windows:
+        ```bash
+        venv\Scripts\activate
+        ```
 
-    bash
+    - No MacOS/Linux:
 
-venv\Scripts\activate
+        ```bash
+        source venv/bin/activate
+        ```
 
-No MacOS/Linux:
+5. Instale as dependências:
 
-bash
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-    source venv/bin/activate
+6. Crie um arquivo `.env` na raiz e configure o nome do banco de dados:
 
-Instale as dependências:
+    ```bash
+    echo "DB_NAME=rpg.db" > rpg.db
+    ```
 
-bash
+7. Execute o jogo:
 
-pip install -r requirements.txt
-
-Crie um arquivo .env na raiz do projeto e defina o nome do banco de dados SQLite:
-
-env
-
-DB_NAME=rpg.db
-
-Execute o jogo:
-
-bash
-
+    ```bash
     python main.py
+    ```
 
-Tecnologias Usadas
+## Tecnologias Usadas
 
-    Python: Linguagem de programação principal.
-    Peewee: ORM usado para interação com o banco de dados SQLite.
-    Bcrypt: Biblioteca para hash de senhas e autenticação segura.
-    Colorama: Biblioteca para adicionar cores ao terminal.
-    Art: Biblioteca usada para criar arte ASCII no terminal.
-    Dotenv: Biblioteca para carregar variáveis de ambiente de arquivos .env.
+```yml
+Python: Linguagem de programação principal.
+Peewee: ORM usado para interação com o banco de dados SQLite.
+Bcrypt: Biblioteca para hash de senhas e autenticação segura.
+Colorama: Biblioteca para adicionar cores ao terminal.
+Art: Biblioteca usada para criar arte ASCII no terminal.
+Dotenv: Biblioteca para carregar variáveis de ambiente de arquivos .env.
+```
 
-Estrutura do Projeto
+## Estrutura do Projeto
 
-    auth.py: Contém funções de login e registro de usuários.
-    character.py: Manipula a criação e escolha de personagens.
-    config.py: Configurações de banco de dados usando SQLite.
-    dungeon.py: Lógica para criação e exploração de dungeons.
-    enemy.py: Carregamento de monstros a partir de arquivos JSON.
-    game.py: Lógica principal do jogo, incluindo escolha de modos de jogo.
-    history.py: Placeholder para modo história (em desenvolvimento).
-    level_logic.py: Funções para cálculo de atributos e XP.
-    lobby.py: Placeholder para modo PvP (em desenvolvimento).
-    models.py: Definição de todas as tabelas do banco de dados.
-    navigation.py: Navegação entre menus principais e jogo.
-    user.py: Manipulação de usuários e personagens.
+```yml
+/
+├── auth.py          - Contém funções de login e registro de usuários.
+├── character.py     - Manipula a criação e escolha de personagens.
+├── config.py         - Configurações de banco de dados usando SQLite.
+├── dungeon.py       - Lógica para criação e exploração de dungeons.
+├── enemy.py         - Carregamento de monstros a partir de arquivos JSON.
+├── game.py          - Lógica principal do jogo, incluindo escolha de modos de jogo.
+├── history.py       - Placeholder para modo história (em desenvolvimento).
+├── level_logic.py   - Funções para cálculo de atributos e XP.
+├── lobby.py         - Placeholder para modo PvP (em desenvolvimento).
+├── models.py        - Definição de todas as tabelas do banco de dados.
+├── navigation.py    - Navegação entre menus principais e jogo.
+└── user.py          - Manipulação de usuários e personagens.
+```
 
-Banco de Dados
+## Banco de Dados
 
-O banco de dados utilizado é o SQLite. As tabelas são criadas automaticamente com base nos modelos definidos em models.py.
-Contribuições
+O banco de dados utilizado é o SQLite. As tabelas são criadas automaticamente com base nos modelos definidos em `models.py`.
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
+## Contribuições
+>
+> [!TIP]
+> Contribuições são bem-vindas!<br>
+> Sinta-se à vontade para abrir issues ou pull requests.
